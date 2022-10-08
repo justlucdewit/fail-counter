@@ -1,0 +1,1 @@
+rmdir dist\bin /S /Q && rmdir dist\dist /S /Q
